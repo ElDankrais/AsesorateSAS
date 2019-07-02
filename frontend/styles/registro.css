@@ -32,12 +32,12 @@ form input,select{
     float: center;
 }
 form h1{
-    text-align: center;
+    text-align: center; 
 }
 .botones{
     display: inline-flex;
 }
-.botones button,a{
+.botones button, .botones a{
     font-size: 1.5em;
     margin: 0.5em;
     font:14px/18px "Helvetica Neue", Helvetica, Arial, Sans-Serif;
